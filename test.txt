@@ -1,1 +1,4 @@
-Hello there
+Hello
+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
+
+git remote add origin https://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github.com/katraore/phase1_Repo1.git
